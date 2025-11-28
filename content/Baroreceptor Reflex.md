@@ -1,0 +1,1 @@
+Sudden ↑BP causes ↓HR

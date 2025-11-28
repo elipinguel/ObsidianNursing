@@ -1,0 +1,1 @@
+Reabsorbs [[Sodium]], [[Chloride]], [[sodium bicarbonate]], hydrogen ions, [[Phosphate]], [[Calcium]]

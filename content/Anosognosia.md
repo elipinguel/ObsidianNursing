@@ -1,0 +1,1 @@
+Unaware of own neurological or psychiatric disorder

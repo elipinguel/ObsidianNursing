@@ -1,0 +1,3 @@
+- Controlled reversible state of unconsciousness
+- Lose protective reflexes
+- Not arousable

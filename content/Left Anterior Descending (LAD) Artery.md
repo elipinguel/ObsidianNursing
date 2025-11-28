@@ -1,0 +1,4 @@
+---
+aliases:
+  - LAD Artery
+---

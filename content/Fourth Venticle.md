@@ -1,0 +1,1 @@
+Cerebellum stoke can cause obstructive hydrocephalus.

@@ -1,0 +1,1 @@
+![[Coronary Artery and Leads.png]]

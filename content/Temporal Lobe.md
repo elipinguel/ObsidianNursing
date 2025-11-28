@@ -1,0 +1,2 @@
+**Injury causes:**
+- Seizures

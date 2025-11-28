@@ -1,0 +1,18 @@
+- Nasal Cannula
+	- <40% FiO2
+	- FiO2 increases by 4% for each liter of O2
+	- No more than 5-6 L/min
+	- Humidity when >4 L/min
+- Simple Mask
+	- 35-60% FiO2
+	- 6-10 L/min
+- Venturi Mask
+	- For precise FiO2
+- Non-Rebreather
+	- 80-100% FiO2
+	- ≥15 L/min
+	- Increase flow if bag collapses
+- High flow nasal cannula
+	- 100% FiO2
+	- 50 L/min
+	- Opens alveoli

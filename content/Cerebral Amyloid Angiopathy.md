@@ -1,0 +1,1 @@
+Old age → amyloid build-up → weakened vessel walls → hemorrhage

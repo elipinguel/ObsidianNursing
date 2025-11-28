@@ -1,0 +1,3 @@
+- Analgesia before sedation
+- Opioids are first-line treatment for non-neuropathic pain in critical-care
+- [[Opioid]] + ([[gabapentin]] or [[pregabalin]]) for neuropathic pain

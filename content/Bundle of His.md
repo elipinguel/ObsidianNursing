@@ -1,0 +1,1 @@
+Transmits impulses to [[Bundle Branch]]es

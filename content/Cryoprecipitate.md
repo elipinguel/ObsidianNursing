@@ -1,0 +1,1 @@
+Contains factor VIII, factor XIII, fibrinogen, von Willebrand factor, and fibronectin

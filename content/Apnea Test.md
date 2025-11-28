@@ -1,0 +1,1 @@
+PaCO2 > 60 mm Hg or increase by 20 mm Hg from baseline without spontaneous breathing

@@ -1,0 +1,1 @@
+[[Potassium]] and [[Calcium]] follow magnesium

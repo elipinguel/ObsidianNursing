@@ -1,0 +1,1 @@
+Reciprocal relationship with [[Phosphate]]

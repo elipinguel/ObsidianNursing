@@ -1,0 +1,1 @@
+Results in prolonged loss of consciousness

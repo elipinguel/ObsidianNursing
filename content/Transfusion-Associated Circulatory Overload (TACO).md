@@ -1,0 +1,4 @@
+- Common
+- Fluid overload from blood
+- ↑[[Central Venous Pressure (CVP)|CVP]]
+- ↑ [[Pulmonary Artery Wedge Pressure|PAWP]]

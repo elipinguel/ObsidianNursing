@@ -1,0 +1,1 @@
+Requires at least 2 nurses: 1 to monitor sedation and 1 to assist in procedure.

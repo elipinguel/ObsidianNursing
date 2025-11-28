@@ -1,0 +1,6 @@
+---
+aliases:
+  - Lokelma
+---
+Indications:
+- [[Hyperkalemia]]

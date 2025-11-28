@@ -1,0 +1,3 @@
+- Blood stasis
+- Hypercoagulability
+- Endothelial injury
