@@ -21,8 +21,8 @@ Signs and symptoms:
 
 Treatment:
 - Titrate [[NS]] for 2-3 mL/kg/hr urine output
-- [[Dialysis]]
 - #loop_diuretic 
+- [[Dialysis]]
 - chelating agents
 - [[calcitonin]] to increase renal excretion
 - #bisphosphonate to decrease bone resorption

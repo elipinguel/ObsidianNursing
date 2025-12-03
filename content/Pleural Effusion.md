@@ -1,0 +1,2 @@
+Treatment:
+- Therapeutic/Diagnostic thoracentesis

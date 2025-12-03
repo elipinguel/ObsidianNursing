@@ -2,10 +2,10 @@ Causes:
 - Post-op cardiac surgery
 
 Signs:
-- stabbing chest pain
-	- relief when leaning forward
-	- radiates to trapezium ridge
-	- increased w/ inspiration
+- Stabbing chest pain
+	- Relief when leaning forward
+	- Radiates to trapezium ridge
+	- Increased w/ inspiration
 - low-grade fever
 - [[Kussmaul's Sign]]
 - [[Pericardial Friction Rub]]

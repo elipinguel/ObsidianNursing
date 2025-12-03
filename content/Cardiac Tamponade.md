@@ -1,9 +1,10 @@
 Pericardial pressure collapses atria
 
 Signs:
-- [[Jugular Vein Distention (JVD)|JVD]]
-- muffled heart sounds
-- hypotension
+- Beck's triad
+	- [[Jugular Vein Distention (JVD)|JVD]]
+	- Muffled heart sounds
+	- Hypotension
 - [[Pulsus Paradoxus]]
 - ↑[[Central Venous Pressure (CVP)|CVP]]
 - Wide mediastinum and large heart on x-ray
