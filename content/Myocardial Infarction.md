@@ -7,7 +7,7 @@ Increase oxygen delivery:
 - [[aspirin]]
 - [[clopidogrel]], prasugrel, ticagrelor, cangrelor
 - Oxygen **ONLY** if SpO2 <90% due to ischemic reperfusion cascade
-Decrease oxygen consumption:
+Decrease [[Oxygen Consumption]]:
 - [[nitroglycerin]]
 - #beta_blocker 
 - [[morphine]] for pain

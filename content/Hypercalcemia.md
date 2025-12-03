@@ -16,6 +16,8 @@ Signs and symptoms:
 - Renal calculi
 - Seizures
 - Weakness
+- [[Hypokalemia]]
+	- Due to calcium interfering with potassium reabsorption channels in loop of Henle
 
 Treatment:
 - Titrate [[NS]] for 2-3 mL/kg/hr urine output
