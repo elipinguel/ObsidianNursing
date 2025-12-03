@@ -16,7 +16,7 @@ Lowering ICP:
    Lidocaine prior to [[Endotracheal Tube]] suctioning
 2. Increase sedation and analgesic
    PaCO2 35-38 mm Hg
-   #antiepiletptic prophylaxis for 7 days max
+   #anticonvulsant prophylaxis for 7 days max
    [[mannitol]] boluses
    Hypertonic saline
 	1. May cause pontine infarct
