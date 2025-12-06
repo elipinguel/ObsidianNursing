@@ -39,7 +39,7 @@ Medications:
 - Antispasmodics
 	- [[baclofen]]
 - [[Selective Serotonin Reuptake Inhibitors (SSRIs)|SSRIs]]
-- [[methylphenidate (Ritalin)]] to stimulate
+- [[methylphenidate]] to stimulate
 - [[haloperidol]] for delirium
 
 Functional outcomes:

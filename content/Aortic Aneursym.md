@@ -11,3 +11,8 @@
 	- Pulsatile abdominal mass
 	- Mottled feet from clots developing in the aneurysm
 	- Bruit
+
+Rupture treatment:
+- Do **NOT** palpate
+- Immediate surgery
+- Supplemental oxygen

@@ -4,7 +4,7 @@ aliases:
 ---
 Normal: 7-15 mm Hg
 Intracranial hypertension 15-20 mm Hg
-Pahtologic: >20 mm Hg
+Pathologic: >20 mm Hg
 
 ==Earliest sign in high ICP is change in mentation==
 

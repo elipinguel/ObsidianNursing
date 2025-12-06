@@ -7,6 +7,9 @@ Hospital-Acquired:
 - Generally harder to treat
 Aspiration
 
+Signs and symptoms:
+- Bronchial consolidations
+
 Sputum:
 - Rust color
 	- *Streptococcus pneumoniae*
