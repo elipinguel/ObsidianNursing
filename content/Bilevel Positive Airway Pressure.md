@@ -24,7 +24,7 @@ Contraindications:
 	- Beard
 	- Head trauma
 - [[Closed Head Injury]]
-- Upper GI bleed
+- Upper [[Gastrointestinal Bleed]]
 - Nausea and vomiting
 - Chest trauma
 
