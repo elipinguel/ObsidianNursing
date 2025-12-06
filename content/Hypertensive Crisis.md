@@ -18,6 +18,6 @@ Treatment:
 - [[nitroglycerin]]
 - [[nicardipine]]
 - #beta_blocker 
-	- Avoid in cocaine and methamphetamine
+	- Avoid in [[cocaine]] and [[methamphetamine]]
 
 May progress into [[Hypertensive Encephalopathy]]

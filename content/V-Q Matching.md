@@ -2,7 +2,7 @@
 
 High ratio caused by:
 - [[Alveolar Dead Space]]
-- [[Pulmonary Embolism (PE)|PE]]
+- [[Pulmonary Embolism|PE]]
 Low ratio caused by:
 - Atelectasis
 - [[Pneumonia]]

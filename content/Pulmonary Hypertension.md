@@ -4,7 +4,7 @@ Causes:
 - Left [[Heart Failure]]
 - [[Chronic Obstructive Pulmonary Disease (COPD)|COPD]]
 - Hypoxia
-- [[Pulmonary Embolism (PE)|PE]]
+- [[Pulmonary Embolism|PE]]
 
 Pathophysiology:
 - Increase in vasoconstrictor mediators

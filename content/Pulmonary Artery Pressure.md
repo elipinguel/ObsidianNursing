@@ -16,7 +16,7 @@ Systolic:
 	- [[Chronic Obstructive Pulmonary Disease (COPD)|COPD]]
 	- [[Acute Respiratory Distress Syndrome (ARDS)|ARDS]]
 	- [[Pulmonary Hypertension]]
-	- [[Pulmonary Embolism (PE)|PE]]
+	- [[Pulmonary Embolism|PE]]
 	- [[Mitral Regurgitation]]
 	- [[Mitral stenosis]]
 	- Low left ventricular compliance

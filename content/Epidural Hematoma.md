@@ -9,4 +9,4 @@ Talk-and-die pattern:
 4. Die within 24 hrs
 
 Treatment:
-- Rapid surgical treatment
+- Rapid surgical treatment to remove the clot

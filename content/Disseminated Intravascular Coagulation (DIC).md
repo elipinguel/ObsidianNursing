@@ -11,7 +11,7 @@ Rapid clot lysis → ↑fibrin split products → bleed
 Signs and symptoms:
 - ↓fibrinogen
 - ↑PT ↑aPTT
-- ↑Fibrin split products
+- ↑Fibrin split products (FSP)
 - ↑D-Dimer
 - [[Platelet]] < 100,000
 

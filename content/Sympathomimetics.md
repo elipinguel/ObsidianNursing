@@ -6,9 +6,9 @@ tags:
 Mimic sympathetic response
 
 Drugs:
-- cocaine
-- heroin
-- Amphetamines
+- [[cocaine]]
+- [[heroin]]
+- [[methamphetamine]]
 - [[epinephrine]]
 - [[norepinephrine]]
 - [[dobutamine]]

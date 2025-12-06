@@ -25,5 +25,5 @@ Decreased by:
 - Mucous plug
 - Hypotension
 - Cardiac arrest
-- [[Pulmonary Embolism (PE)|PE]]
+- [[Pulmonary Embolism|PE]]
 - [[epinephrine]]

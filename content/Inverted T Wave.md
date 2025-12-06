@@ -4,5 +4,5 @@ Indicates:
 - [[Wellens' Syndrome]]
 - Bundle branch block
 - Ventricular hypertrophy
-- [[Pulmonary Embolism (PE)|PE]]
+- [[Pulmonary Embolism|PE]]
 - High [[Intracranial Pressure|ICP]]

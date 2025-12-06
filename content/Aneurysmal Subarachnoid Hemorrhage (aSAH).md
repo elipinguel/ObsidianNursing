@@ -13,7 +13,7 @@ Risk factors:
 - HTN
 - Smoking
 - Loss body mass index
-- Cocaine, methamphetamines
+- [[cocaine]], [[methamphetamine]]
 
 Treatment:
 - Prophylactic [[phenytoin]] or [[levetiracetam]] for 7 days

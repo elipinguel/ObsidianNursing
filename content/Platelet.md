@@ -1,6 +1,6 @@
 Normal: 150,000-400,00 / mcL
 
-Spontaneous bleeding when < 10,000 
+Spontaneous bleeding when < 20,000 
 
 >[!warning]
 >Platelet transfusion has a high risk for infection due to not being cooled
