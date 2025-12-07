@@ -7,3 +7,5 @@ Treatment:
 	- Avoid [[Lactated Ringers]] in liver disease
 - [[Gastric Lavage]]
 	- Removes blood to prevent it from turning into ammonia
+- Vasopressors to constrict mesenteric vasculature
+- Endoscopy
