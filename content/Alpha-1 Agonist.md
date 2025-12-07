@@ -4,5 +4,5 @@ tags:
 ---
 
 - ↑[[Cardiac Contractility]]
-- vasoconstriction
-- constipation
+- Vasoconstriction
+- Constipation

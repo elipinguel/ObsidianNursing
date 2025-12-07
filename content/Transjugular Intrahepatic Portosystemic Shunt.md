@@ -8,5 +8,5 @@ Indications:
 - Gastric variceal bleeding
 
 Adverse effects:
-- Hepatic encephalopathy
+- [[Hepatic Encephalopathy]]
 	- Shunt allows ammonia to bypass liver

@@ -12,5 +12,5 @@ Treatment:
 - [[Transjugular Intrahepatic Portosystemic Shunt]]
 - Sengstaken-Blakemore Tube
 - Sodium restriction
-
->
+- 1.2-1.5 g/kg/day protein
+- Thiamine, folic acid, vitamin B6

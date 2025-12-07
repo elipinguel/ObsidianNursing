@@ -1,0 +1,1 @@
+Traps ammonia in stool

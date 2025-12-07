@@ -22,7 +22,7 @@ Signs and symptoms:
 - [[Jaundice]]
 - ↑Unconjugated bilirubin
 - [[Portal Hypertension]]
-- Splanchnic vasodilation tricking kidney to activate [[Renin-Angiotensin-Aldosterone System|RAAS]]
+- [[Hepatorenal Syndrome]]
 - Ascites
 
 Avoid:
@@ -43,3 +43,6 @@ Treatment:
 - #diuretic 
 - Paracentesis
 	- #cephalosporin if spontaneous bacterial peritonitis
+
+>[!tip]
+>[[Hypophosphatemia]] indicates that liver is regenerating
