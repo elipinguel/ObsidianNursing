@@ -23,7 +23,7 @@ Treatment:
 - Titrate [[NS]] for 2-3 mL/kg/hr urine output
 - #loop_diuretic 
 - [[Dialysis]]
-- chelating agents
+- Chelating agents
 - [[calcitonin]] to increase renal excretion
 - #bisphosphonate to decrease bone resorption
 - #corticosteroid to decrease GI calcium absorption

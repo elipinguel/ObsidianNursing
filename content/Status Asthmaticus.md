@@ -1,8 +1,12 @@
-Asthma attack that is resistant to #bronchodilator
+[[Asthma]] attack that is resistant to #bronchodilator
+
+Triggers:
+- #NSAID 
 
 Signs and symptoms:
 - Dehydration
 	- From high respiratory rate
+- Loss of breath sounds
 
 Treatment:
 - High flow oxygen

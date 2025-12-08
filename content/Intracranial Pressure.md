@@ -23,7 +23,7 @@ Lowering ICP:
 		1. Can cause [[Basilar Artery Occlusion]]
 3. PaCO2 32-35
    #paralytic 
-   Raise [[Cerebral Perfusion Pressure|CPP]] with fluids, vasopressors, inotrops
+   Raise [[Cerebral Perfusion Pressure|CPP]] with fluids, vasopressors, inotropes
 4. [[phenobarbital]] coma
    Surgical decompression
    Mild hypothermia

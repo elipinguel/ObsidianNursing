@@ -3,9 +3,9 @@
 Causes:
 - [[Cardiac Tamponade]]
 - pericardial effusion
-- pericarditis
-- asthma
-- COPD
+- [[Pericarditis]]
+- [[Asthma]]
+- [[Chronic Obstructive Pulmonary Disease (COPD)|COPD]]
 - mechanical ventilation
 	- inspiration = ↓waveform
 	- ![[Pulsus Paradoxus with Ventilator.png]]
