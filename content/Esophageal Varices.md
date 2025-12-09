@@ -2,6 +2,7 @@ Causes:
 - [[Portal Hypertension]]
 
 Treatment:
+- Intubate if vomiting
 - [[octreotide]]
 - [[vasopressin]]
 - Antibiotics
