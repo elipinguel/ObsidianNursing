@@ -8,6 +8,7 @@ Signs and symptoms:
 - Hypoglycemia
 - Hypoventilation → respiratory acidosis
 - Low T3 and T4
+- Dysrhythmias
 
 Treatment:
 - [[levothyroxine]] and [[liothyronine]]

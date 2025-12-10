@@ -9,3 +9,4 @@ Signs and symptoms:
 
 Treatment:
 - #anticoagulant 
+- Emergent surgery if acute
