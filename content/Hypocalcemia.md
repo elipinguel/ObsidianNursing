@@ -3,6 +3,7 @@ Total calcium < 9 or ionized calcium < 4.5 mg/dL (1.05 mmol/L)
 Causes:
 - citrate in blood products bind to calcium
 - [[Alkalosis]]
+- [[Chronic Kidney Disease|CKD]]
 
 Signs and symptoms:
 - Hypotension

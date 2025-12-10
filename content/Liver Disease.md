@@ -43,6 +43,7 @@ Treatment:
 - #diuretic 
 - Paracentesis
 	- #cephalosporin if spontaneous bacterial peritonitis
+	- [[albumin]] if > 5 L
 
 >[!tip]
 >[[Hypophosphatemia]] indicates that liver is regenerating

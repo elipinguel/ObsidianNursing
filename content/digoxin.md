@@ -1,6 +1,7 @@
 ---
 tags:
   - antiarrhythmic
+  - cardiac_glycoside
 ---
 
 > [!warning]
