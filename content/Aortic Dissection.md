@@ -7,7 +7,7 @@ Treatment:
 - Assess distal BP
 - Lower HR before BP due to refractory tachycardia with hypotension
 - MAP 60-65, SBP 100-120
-	- [[Beta-Blocker]]
+	- [[Beta Blocker]]
 	- [[Calcium Channel Blockers]]
 - [[esmolol]]
 - [[nicardipine]]

@@ -3,8 +3,7 @@ aliases:
   - A-fib
 ---
 Causes:
-- Stress
-	- 
+- Postoperative stress
 
 Signs and symptoms:
 - Palpitations
@@ -12,4 +11,5 @@ Signs and symptoms:
 - Lightheadedness
 
 Treatment:
+- [[Beta Blocker]]
 - [[Calcium Channel Blockers]]

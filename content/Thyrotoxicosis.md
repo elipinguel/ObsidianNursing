@@ -18,7 +18,7 @@ Signs and symptoms:
 - ↑T3 and ↑T4
 
 Treatment:
-- [[Beta-Blocker]] to control symptoms
+- [[Beta Blocker]] to control symptoms
 	- [[Calcium Channel Blockers]] if not tolerated
 - [[propylthiouracil]] or [[methimazole]]
 - potassium iodide solution or Lugol's solution

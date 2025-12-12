@@ -6,8 +6,8 @@ aliases:
 ---
 Dosing:
 - <100 mcg/min
-	- venous dilation
+	- Venous dilation
 - >100 mcg/min
-	- arterial dilation
+	- Arterial dilation
 Adverse effects:
 - [[Tachyphylaxis]] after 24 hrs

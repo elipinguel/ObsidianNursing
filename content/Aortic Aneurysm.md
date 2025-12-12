@@ -6,5 +6,5 @@ Abdominal:
 - Diminished bilateral lower extremity pulses
 
 Treatment:
-- [[Beta-Blocker]] to reduce contractility and BP
+- [[Beta Blocker]] to reduce contractility and BP
 - [[Angiotensin-Converting Enzyme (ACE) Inhibitors|ACE Inhibitors]]/[[Angiotensin II Receptor Blockers (ARBs)|ARBs]] to slow growth

@@ -6,7 +6,8 @@ tags:
 > Requires good renal function
 
 Effects:
-- arterial vasodilation
+- Arterial vasodilation
+
 Adverse effects:
 - cyanide poisoning after 24 hrs
 - ↑[[Intracranial Pressure|ICP]]

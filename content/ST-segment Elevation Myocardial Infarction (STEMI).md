@@ -13,7 +13,7 @@ Treatment:
 	- ↑venous capacitance to lower preload
 - oxygen
 	- Oxidative quenching of NO ↑ coronary vascular resistance
-- [[Beta-Blocker]]
+- [[Beta Blocker]]
 	- Arterial vasodilation
 	- ↑diastolic time
 	- ↓[[Cardiac Contractility]] ⇒ ↓ oxygen demand
