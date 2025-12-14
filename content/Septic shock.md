@@ -1,3 +1,8 @@
+Criteria:
+- Meets [[Sepsis]] criteria
+- Hypotension
+Warm stage overlaps with normal sepsis
+
 Usually caused by [[Gram-Negative Bacteria]]
 
 Stages:
@@ -18,3 +23,8 @@ Stages:
 		2. Venous pooling
 	2. Treatment:
 		1. [[Fluid Resuscitation]]
+		2. Vasopressors
+			1. Start with [[norepinephrine]]
+		3. Drain abscess, debride necrotic tissue, remove infected devices within 6-12 hrs
+		4. #corticosteroid for refractory septic shock with high-dose vasopressors
+		5. [[Continuous Renal Replacement Therapy|CRRT]] for refractory [[Hyperkalemia]], acidosis, or fluid overload
