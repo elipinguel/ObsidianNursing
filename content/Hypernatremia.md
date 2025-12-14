@@ -13,7 +13,7 @@ Causes:
 Signs and symptoms:
 - Increased sodium intake
 	- Weight gain
-	- ↑[[Central Venous Pressure (CVP)|CVP]]
+	- ↑[[Central Venous Pressure|CVP]]
 	- Hypertension
 - Water loss
 	- Thirst

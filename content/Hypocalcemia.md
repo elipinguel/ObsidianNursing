@@ -4,6 +4,7 @@ Causes:
 - citrate in blood products bind to calcium
 - [[Alkalosis]]
 - [[Chronic Kidney Disease|CKD]]
+- [[Rhabdomyolysis]]
 
 Signs and symptoms:
 - Hypotension

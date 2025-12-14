@@ -7,7 +7,7 @@ Types:
 
 Biomarkers:
 - [[Myoglobin]]
-- [[Creatinine Kinase-MB (CKMB)]]
+- [[Creatinine Kinase-MB]]
 - [[Troponin|Troponin T]]
 - [[Troponin|Troponin I]]
 	- Most specific for MI

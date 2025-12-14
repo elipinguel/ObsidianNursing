@@ -3,7 +3,7 @@ aliases:
   - PCI
 ---
 
-[[Creatinine Kinase-MB (CKMB)]] should decrease after
+[[Creatinine Kinase-MB]] should decrease after
 
 Complications:
 - Contrast [[Acute Kidney Injury|AKI]]

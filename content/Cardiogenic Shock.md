@@ -4,7 +4,7 @@ Signs:
 - [[Jugular Vein Distention (JVD)|JVD]]
 - Narrow [[Pulse Pressure]]
 - [[S3 Heart Sound]], [[S4 Heart Sound]]
-- ↑[[Central Venous Pressure (CVP)|CVP]], ↑[[Systemic Vascular Resistance (SVR)|SVR]], ↑[[Pulmonary Artery Wedge Pressure|PAWP]]
+- ↑[[Central Venous Pressure|CVP]], ↑[[Systemic Vascular Resistance (SVR)|SVR]], ↑[[Pulmonary Artery Wedge Pressure|PAWP]]
 
 Treatment:
 - #diuretic 

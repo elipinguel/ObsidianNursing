@@ -1,10 +1,11 @@
 ---
 aliases:
-  - Pulmonary Artery Occlusion Pressure (PAOP)
   - PAWP
+  - PAOP
+  - Pulmonary Artery Occlusion Pressure
 ---
 > [!tip]
-> Normal PAWP ≈ 2 * [[Central Venous Pressure (CVP)|CVP]]
+> Normal PAWP ≈ 2 * [[Central Venous Pressure|CVP]]
 
 Measured with [[Pulmonary Artery Catheter|PA Catheter]]
 Balloon is temporarily inflated to occlude right heart influence
@@ -15,7 +16,7 @@ Elevated with high left heart pressures
 >[!tip]
 >When deciding between CVP or PAWP for fluid management, choose PAWP
 
-==Normal: 4-12 mm Hg==
+==Normal: 4-12 mm Hg== 
 ==1-5 mm Hg lower than [[Pulmonary Artery Pressure|PAP]] diastolic==
 
 PAWP > PA diastolic means:
@@ -25,9 +26,9 @@ PAWP > PA diastolic means:
 	- May also have damped waveform and marked respiratory variations
 - [[Positive End-Expiratory Pressure (PEEP)|PEEP]] > 10
 
-==If PEEP > 10:==
-1. ==PEEP in cm water/1.36/2 = PEEP in mm Hg==
-2. ==PAWP - PEEP in mm Hg = True PAWP==
+==If PEEP > 10:== 
+1. ==PEEP in cm water/1.36/2 = PEEP in mm Hg== 
+2. ==PAWP - PEEP in mm Hg = True PAWP== 
 
 ![[PA Catheter Waveforms.png]]
 

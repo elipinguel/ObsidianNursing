@@ -2,7 +2,7 @@
 aliases:
   - Preload
 ---
-Right side measured with [[Central Venous Pressure (CVP)|CVP]] or [[Right Arterial Pressure (RAP)|RAP]]
+Right side measured with [[Central Venous Pressure|CVP]] or [[Right Arterial Pressure (RAP)|RAP]]
 
 Left side measured with [[Pulmonary Artery Wedge Pressure|PAWP]]
 

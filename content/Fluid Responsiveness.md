@@ -1,5 +1,5 @@
 **Static indicators:** measures one value at a certain point in time
-- [[Central Venous Pressure (CVP)]]
+- [[Central Venous Pressure]]
 - [[Pulmonary Artery Wedge Pressure]]
 - [[Fluid Challenge]]
 - [[Passive Leg Raise (PLR)]]

@@ -5,7 +5,7 @@ Signs:
 - [[Jugular Vein Distention (JVD)]]
 - [[Kussmaul's sign]]
 - [[Atrioventricular Block|AV Block]]
-- High [[Pulmonary Artery Pressure|PAP]] and thus high [[Central Venous Pressure (CVP)|CVP]]
+- High [[Pulmonary Artery Pressure|PAP]] and thus high [[Central Venous Pressure|CVP]]
 
 Treatment:
 - Right-sided EKG

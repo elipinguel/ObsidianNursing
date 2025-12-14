@@ -6,7 +6,7 @@ Signs:
 	- Muffled heart sounds
 	- Hypotension
 - [[Pulsus Paradoxus]]
-- ↑[[Central Venous Pressure (CVP)|CVP]]
+- ↑[[Central Venous Pressure|CVP]]
 - Wide mediastinum and large heart on x-ray
 - Narrow [[Pulse Pressure]]
 - Equalization of right and left heart pressures
