@@ -9,5 +9,5 @@ Effects:
 - Arterial vasodilation
 
 Adverse effects:
-- cyanide poisoning after 24 hrs
+- Cyanide poisoning after 24 hrs
 - ↑[[Intracranial Pressure|ICP]]

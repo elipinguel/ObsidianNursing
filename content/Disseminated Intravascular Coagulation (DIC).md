@@ -12,7 +12,7 @@ Signs and symptoms:
 - ↓fibrinogen
 - ↑PT ↑aPTT
 - ↑Fibrin split products (FSP)
-- ↑D-Dimer
+- D-Dimer < 500 ng/mL
 - [[Platelet]] < 100,000
 
 Treatment:
