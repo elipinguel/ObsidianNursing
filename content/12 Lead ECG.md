@@ -13,6 +13,7 @@ Anterior wall:
 - Infarction causes 2nd degree type 2 [[Atrioventricular Block|AV Block]]
 Right ventricle:
 - V4R
+	- Placed on 5th intercostal space, right midclavicular line
 Posterior Wall:
 - V7, V8, V9
 
@@ -20,3 +21,4 @@ All V leads have R waves. R waves should increase in size from V1 to V6
 
 ![[12 Lead ECG.png]]
 ![[12 Leads.png]]
+![[Posterior Leads.png]]
