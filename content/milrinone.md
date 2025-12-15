@@ -1,6 +1,7 @@
 ---
 tags:
   - alpha-1_agonist
+  - inotrope
 ---
 
 Route:

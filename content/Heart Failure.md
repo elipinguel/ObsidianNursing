@@ -29,7 +29,12 @@ Treatment:
 	- #ARB 
 	- #aldosterone_antagonist
 	- Can cause [[Hyperkalemia]] and dehydration
-- #beta_blocker 
+- #loop_diuretic 
+	- May cause ototoxicity
+- #thiazide_diuretic 
+	- May cause [[Hyponatremia]], [[Hypokalemia]]
+- #inotrope
+- #beta_blocker for maintenance
 	- [[metoprolol]]
 	- [[carvedilol]]
 	- bisoprolol
@@ -37,7 +42,3 @@ Treatment:
 	- Stop sodium-potassium pump
 		- Stop sodium-calcium pump
 			- ↑intracellular [[Calcium]] for ↑[[Cardiac Contractility|Contractility]]
-- #loop_diuretic 
-	- May cause ototoxicity
-- #thiazide_diuretic 
-	- May cause [[Hyponatremia]], [[Hypokalemia]]

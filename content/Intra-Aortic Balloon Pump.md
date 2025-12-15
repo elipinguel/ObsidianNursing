@@ -1,5 +1,9 @@
-==Deflated during systolic==
-==Inflated during diastole==
+---
+aliases:
+  - IABP
+---
+
+==Deflated during systolic; Inflated during diastole==
 
 Purpose:
 - Decrease afterload
@@ -17,6 +21,9 @@ Complications:
 - Pulse deficit
 - AMS
 - Renal infarct
+
+Weaning:
+- 1:1 to 1:2 support
 
 Removal criteria:
 - ==[[Pulmonary Artery Wedge Pressure|PAWP]] < 18==

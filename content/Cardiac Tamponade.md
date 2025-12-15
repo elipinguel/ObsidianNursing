@@ -11,6 +11,7 @@ Signs:
 - Narrow [[Pulse Pressure]]
 - Equalization of right and left heart pressures
 - [[Pulsus Alternans]]
+- [[Electrical Alternans]]
 
 Treatment:
 - pericardiocentesis
