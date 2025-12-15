@@ -10,7 +10,7 @@ Causes:
 - Genetic
 
 Diagnostics:
-- ↑[[Alanine Aminotransferase|ALT]] and ↑[[Aspartate Aminotransferase|AST]]
+- ↑[[Aspartate Aminotransferase|AST]] and ↑[[Alanine Aminotransferase|ALT]] 
 	- If AST/ALT ratio > 2, then alcoholic cause
 - ↑[[International Normalized Ratio|INR]]
 	- Changes in real-time
@@ -27,7 +27,7 @@ Signs and symptoms:
 
 Avoid:
 - [[Hypokalemia]]
-	- Kidneys retain potassium and ammonium ions
+	- Kidneys retain potassium and ammonium ions together
 - [[Azotemia]]
 	- Urea is reverted into ammonia by gut microbia
 - Protein

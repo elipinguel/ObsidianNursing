@@ -1,5 +1,5 @@
 
 
 Signs and Symptoms:
-- [[Esophageal Varice]]
+- [[Esophageal Varices]]
 - Splenic sequestration of [[Platelet]]

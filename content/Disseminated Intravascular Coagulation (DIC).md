@@ -9,10 +9,10 @@ Excessive clotting → ischemia; use up all clotting factors → bleed
 Rapid clot lysis → ↑fibrin split products → bleed
 
 Signs and symptoms:
-- ↓fibrinogen
+- Fibrinogen < 200 mg/dL
 - ↑PT ↑aPTT
 - ↑Fibrin split products (FSP)
-- D-Dimer < 500 ng/mL
+- D-Dimer > 500 ng/mL
 - [[Platelet]] < 100,000
 
 Treatment:

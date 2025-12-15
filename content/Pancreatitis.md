@@ -1,5 +1,5 @@
 Causes:
-- Pancreatic duct obstruction
+- Pancreatic/Biliary duct obstruction
 	- Gallstones, infection
 - Alcoholism
 - #cyclosporine, #corticosteroid, #thiazide_diuretic, #tetracycline

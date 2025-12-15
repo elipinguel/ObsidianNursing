@@ -2,7 +2,7 @@
 aliases:
   - HHS
 ---
-- More insulin than [[Diabetic Ketoacidosis|DKA]]
+- Produces more insulin than in [[Diabetic Ketoacidosis|DKA]]
 - Usually in Type 2 DM
 - Develops over days to weeks
 
