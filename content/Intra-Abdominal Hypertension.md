@@ -1,7 +1,7 @@
 [[Intra-Abdominal Pressure]] ≥ 12 mm Hg
 
 Signs and symptoms:
-- ↑[[Systemic Vascular Resistance (SVR)|SVR]]
+- ↑[[Systemic Vascular Resistance|SVR]]
 - SOB
 - Gut ischemia
 - ↓[[Cardiac Preload|Preload]]

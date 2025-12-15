@@ -16,8 +16,8 @@ Elevated with high left heart pressures
 >[!tip]
 >When deciding between CVP or PAWP for fluid management, choose PAWP
 
-==Normal: 4-12 mm Hg== 
-==1-5 mm Hg lower than [[Pulmonary Artery Pressure|PAP]] diastolic==
+==Normal: 4-12 mm Hg==
+1-5 mm Hg lower than [[Pulmonary Artery Pressure|PAP]] diastolic
 
 PAWP > PA diastolic means:
 - Over-wedging catheter
@@ -27,8 +27,8 @@ PAWP > PA diastolic means:
 - [[Positive End-Expiratory Pressure (PEEP)|PEEP]] > 10
 
 ==If PEEP > 10:== 
-1. ==PEEP in cm water/1.36/2 = PEEP in mm Hg== 
-2. ==PAWP - PEEP in mm Hg = True PAWP== 
+1. PEEP in cm water/1.36/2 = PEEP in mm Hg
+2. PAWP - PEEP in mm Hg = True PAWP
 
 ![[PA Catheter Waveforms.png]]
 

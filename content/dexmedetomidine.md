@@ -13,4 +13,4 @@ Puts patient to sleep. Does NOT sedate
 Complications:
 - Hypertension or hypotension
 - Bradycardia
-- Tachyphylaxis after 24 hrs
+- [[Tachyphylaxis]] after 24 hrs

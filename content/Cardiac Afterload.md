@@ -2,7 +2,7 @@
 aliases:
   - Afterload
 ---
-Left side measured with [[Systemic Vascular Resistance (SVR)|SVR]]
+Left side measured with [[Systemic Vascular Resistance|SVR]]
 Right side measured with [[Pulmonary Vascular Resistance|PVR]]
 
 Affected by:
