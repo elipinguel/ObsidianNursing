@@ -42,7 +42,7 @@ Treatment:
 - 2 g/day [[Sodium]] restriction
 - #diuretic 
 - Paracentesis
-	- #cephalosporin if spontaneous bacterial peritonitis
+	- #cephalosporin if spontaneous bacterial [[Peritonitis]]
 	- [[albumin]] if > 5 L
 
 >[!tip]

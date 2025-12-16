@@ -12,3 +12,5 @@ Contraindications:
 Toxicity treatment:
 - Fluids to dilute and promote renal excretion
 - [[sodium bicarbonate]] to alkalinize urine and trap acidic aspirin metabolites in the urine
+- [[Dialysis]]
+- [[acetylcystein]] to replenish glutathione to act as an antioxidant

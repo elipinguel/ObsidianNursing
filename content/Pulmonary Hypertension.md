@@ -11,6 +11,11 @@ Pathophysiology:
 - Reduction in NO and [[Prostacyclin]]
 - Remodeling of pulmonary artery vessel wall
 
+Signs and symptoms:
+- ↑[[Pulmonary Artery Pressure|PAP]], ↑[[Central Venous Pressure|CVP]]
+- Loud pulmonary S2 heart sound
+	- Due to increased pressure
+
 Treatment:
 - Reduce salt and fluid intake
 - Avoid pregnancy

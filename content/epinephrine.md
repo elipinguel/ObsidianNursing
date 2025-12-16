@@ -12,3 +12,5 @@ tags:
 .>0.1 mcg/kg/min:
 - [[Alpha-1 Agonist]] 
 - [[Alpha-2 Agonist]] 
+
+[[Beta Blocker]]s reduce effectiveness

@@ -11,6 +11,7 @@ Signs:
 - [[Jugular Vein Distention (JVD)|JVD]]
 - Tachypnea
 - Asymmetric limb edema
+- [[Pulmonary Hypertension]]
 
 Causes:
 - VTE
