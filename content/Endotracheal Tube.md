@@ -1,3 +1,7 @@
+Indications:
+- Secure patent airway
+- pH < 7.30
+
 Normal cuff pressure: 20-30 mm Hg
 
 Suction only when necessary
@@ -11,5 +15,3 @@ Extubation criteria:
 | RR < 25 without dyspnea  |        Spontaneous [[Tidal Volume]] > 5 mL/kg         | PaCO2 ~ 40 mm Hg with [[Minute Ventilation]] < 10 L/min |
 | Thin, minimal secretions |           [[Vital Capacity]] > 10-15 mL/kg            |           PaO2 > 60 mm Hg with [[FiO2]] < 40%           |
 |       Cough reflex       | [[Rapid Shallow Breathing Index]] < 105 breaths/min/L |                                                         |
-
-![[Extubation Criteria.png]]
