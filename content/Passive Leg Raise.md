@@ -1,3 +1,7 @@
+---
+aliases:
+  - PLR
+---
 Static indicator of fluid responsiveness
 
 Patient is responsive to fluids if:

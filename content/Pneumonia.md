@@ -9,6 +9,7 @@ Aspiration
 
 Signs and symptoms:
 - Bronchial consolidations
+- Crackles
 
 Sputum:
 - Rust color

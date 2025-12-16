@@ -2,7 +2,7 @@
 - [[Central Venous Pressure]]
 - [[Pulmonary Artery Wedge Pressure]]
 - [[Fluid Challenge]]
-- [[Passive Leg Raise (PLR)]]
+- [[Passive Leg Raise]]
 
 **Dynamic indicators:** measures multiple values over time
 - [[Pulse Pressure Variation (PPV)]]

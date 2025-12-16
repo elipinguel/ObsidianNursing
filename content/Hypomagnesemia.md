@@ -6,6 +6,7 @@ Causes:
 - Alcoholism
 - Diuresis
 - Renal tubular dysfunction
+- [[Refeeding Syndrome]]
 
 Signs and symptoms:
 - Prolonged QT interval

@@ -5,6 +5,8 @@ aliases:
 ---
 Percentage of oxygen
 
+Similar to [[ScvO2]] but in pulmonary artery
+
 Values:
 - >80%
 	- Cells not utilizing oxygen

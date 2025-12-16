@@ -36,3 +36,8 @@ Treatment:
 - Lung transplant
 - Atrial septostomy
 - Potts shunt
+
+Complications:
+- [[Pulmonary Embolism|PE]]
+- [[Pulmonary Edema]]
+- Pulmonary hemorrhage
