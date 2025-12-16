@@ -1,4 +1,4 @@
-Normal cuff pressure 20-30 mm Hg
+Normal cuff pressure: 20-30 mm Hg
 
 Suction only when necessary
 Saline lavage should be avoided
