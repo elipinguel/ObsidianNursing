@@ -15,6 +15,6 @@ Treatments:
 - Plasmapheresis
 - IVIG
 
-Give Tensilon to determine if patient is in Myasthenic Crisis or Cholinergic Crisis:
+Give [[edrophonium|Tensilon]] to determine if patient is in Myasthenic Crisis or [[Cholinergic Crisis]]:
 - If gets better after administration, myasthenic crisis and needs higher medication dosage
 - If gets worse, need to decrease medication dosage

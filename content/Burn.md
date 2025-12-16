@@ -14,3 +14,5 @@ Fluid resuscitation for 2nd, 3rd, and 4th degree:
 - 50% given over 8 hrs
 - Next 50% given over 16 hrs
 	- Stop or give [[albumin]] with signs of fluid overload
+
+![[Burn Surface Area.png]]

@@ -16,6 +16,8 @@ Types:
 	- Headache
 	- AMS
 	- Incontinence
+	- Contralateral weakness
+	- Ipsilateral mydriasis
 
 Treatment:
 - Medical management
