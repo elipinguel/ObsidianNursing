@@ -5,7 +5,7 @@ aliases:
 
 Ventilator detects inspiration and assists
 
-Sets minimum RR
+Sets minimum [[Respiratory Rate|RR]]
 
 Can be:
 - [[Volume Control]]

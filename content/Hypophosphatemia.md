@@ -13,6 +13,7 @@ Signs and symptoms:
 - Confusion
 - Seizures
 - Impaired renal and liver function
+- [[Hypercalcemia]]
 
 Treatment:
 - potassium phosphate

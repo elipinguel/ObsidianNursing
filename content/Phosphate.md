@@ -1,1 +1,1 @@
-Reciprocal relationship with [[Calcium]]
+Inverse relationship with [[Calcium]]

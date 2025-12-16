@@ -16,7 +16,7 @@ Signs and symptoms:
 - Hypoactive bowel sounds
 - [[Hypocalcemia]]
 	- Due to calcium binding to fat necrosis
-- Hypoalbuminemia from inflammation causing capillary leak
+- [[Hypoalbuminemia]] from inflammation causing capillary leak
 - [[Hyperglycemic Hyperosmolar State|HHS]]
 	- Due to low insulin production
 - Left-sided atelectasis and pleural effusion from digestive enzymes eating lungs

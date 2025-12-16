@@ -1,4 +1,4 @@
-Total calcium > 10.5 or ionized calcium > 5.6 mg/dL (1.3 mmol/L)
+Total [[Calcium]] > 10.5 or ionized calcium > 5.6 mg/dL (1.3 mmol/L)
 
 Causes:
 - [[Chronic Kidney Disease]]

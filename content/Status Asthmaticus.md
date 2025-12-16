@@ -15,8 +15,8 @@ Treatment:
 	- Permissive hypercapnia 50-60 mm Hg and acidosis initially
 - #beta-2_antagonist 
 - #corticosteroid
-- Oxygen
 - Continuous [[albuterol]]
 - [[Magnesium]]
 - Helium
 - Inhaled anesthetics
+	- Last resort

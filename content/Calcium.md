@@ -1,3 +1,3 @@
-Reciprocal relationship with [[Phosphate]]
+Inverse relationship with [[Phosphate]]
 
 Follows [[Magnesium]]
