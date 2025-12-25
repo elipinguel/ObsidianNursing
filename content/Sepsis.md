@@ -8,6 +8,6 @@ Treatment:
 - [[Fluid Resuscitation]]
 - At 6 hrs, assess 2 of the following:
 	- [[Central Venous Pressure|CVP]]
-	- [[ScvO2]]
+	- [[Central Venous Oxygen Saturation]]
 	- Bedside cardiac ultrasound
 	- [[Passive Leg Raise]]

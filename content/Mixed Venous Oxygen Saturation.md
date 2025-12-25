@@ -1,14 +1,13 @@
 ---
 aliases:
   - SvO2
-  - Mixed Venous Oxygen Saturation
 ---
 Percentage of oxygen
 
-Similar to [[ScvO2]] but in pulmonary artery
+Similar to [[Central Venous Oxygen Saturation]] but in pulmonary artery
 
 Values:
-- >80%
+- .>80%
 	- Cells not utilizing oxygen
 - ==76-80% is normal==
 - 51-75%

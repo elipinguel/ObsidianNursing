@@ -25,6 +25,7 @@ Right shift causes:
 - ==Increase in 2,3-diphosphoglycerate==
 	- From tissue hypoxia
 	- Reduces [[Hemoglobin]] binding to increase tissue oxygenation
+
 Left shift causes:
 - ↓temperature
 - Alkalosis
