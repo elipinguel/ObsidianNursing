@@ -2,5 +2,6 @@
 aliases:
   - Preexcitation Supraventricular Tachycardia
   - Preexcitation SVT
-  - Antodromic AVRT
 ---
+Characteristics:
+- 1:1 AV conduction
