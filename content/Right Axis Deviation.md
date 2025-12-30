@@ -1,6 +1,6 @@
 Characteristics:
 - Negative QRS in Lead I
-- Positive QRS in Lead aVF
+- Positive QRS in Lead II and Lead aVF
 
 Causes:
 - [[Right Bundle Branch Block]]
@@ -10,5 +10,4 @@ Causes:
 - Tricuspid valve disease
 - Lung disease
 
-# Extreme Right Axis Deviation:
-- Negative QRS in Lead I and Lead aVF
+![[Right Axis Deviation.png]]

@@ -4,4 +4,7 @@ aliases:
 ---
 Percentage of oxygen
 
-Similar to [[Mixed Venous Oxygen Saturation|SvO2]] but in superior vena cava
+Probe in superior vena cava. Only measures oxygen usage from upper body
+
+Higher than [[Mixed Venous Oxygen Saturation|SvO2]]
+

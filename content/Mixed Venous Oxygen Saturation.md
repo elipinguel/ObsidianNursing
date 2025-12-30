@@ -4,7 +4,9 @@ aliases:
 ---
 Percentage of oxygen
 
-Similar to [[Central Venous Oxygen Saturation]] but in pulmonary artery
+Probe in pulmonary artery
+
+5-10% lower than [[Central Venous Oxygen Saturation]]
 
 Values:
 - .>80%

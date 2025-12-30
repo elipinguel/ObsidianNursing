@@ -1,0 +1,1 @@
+Negative QRS in Lead I, Lead II, and aVF

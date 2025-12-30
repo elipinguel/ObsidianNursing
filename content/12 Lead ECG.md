@@ -3,6 +3,7 @@ Lateral Wall:
 - Should be positive. If positive then negative, then moving away from left side and thus [[Right Axis Deviation]]
 Inferior Wall:
 - II, II, aVF
+- ST depr
 - Should be positive. If positive then negative, then moving away from bottom left side and thus [[Left Axis Deviation]]
 - Infarction causes 2nd degree type 1 [[Atrioventricular Block|AV Block]]
 Septum:

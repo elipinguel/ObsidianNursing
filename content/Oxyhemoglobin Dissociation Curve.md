@@ -6,7 +6,7 @@
 >PaO2 60 mm Hg; SaO2 90%
 
 
-When PaO2 > 60 mm Hg, little increase in SaO2 for every mm Hg increase in PaO2.
+When PaO2 > 60 mm Hg, little increase in [[Hemoglobin Oxygen Saturation]] for every mm Hg increase in PaO2.
 
 ![[Oxyhemoglobin Dissociation Curve.png]]
 
@@ -15,8 +15,8 @@ When PaO2 > 60 mm Hg, little increase in SaO2 for every mm Hg increase in PaO2.
 > Right releases
 > Left loves
 
-Right shift lowers [[Hemoglobin Oxygen Saturation|SaO2]] due to tissues needing more oxygen
-Left shift increases [[Hemoglobin Oxygen Saturation|SaO2]]
+Right shift lowers [[Hemoglobin Oxygen Saturation]] due to tissues needing more oxygen
+Left shift increases [[Hemoglobin Oxygen Saturation]]
 
 Right shift causes:
 - Acidosis
