@@ -1,4 +1,4 @@
 ---
 aliases:
-  - LAD Artery
+  - PVC
 ---
