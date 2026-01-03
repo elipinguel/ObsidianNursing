@@ -9,5 +9,6 @@ Differentiates ventricular tachycardia (VT) from [[Antidromic Artrioventricular 
 
 [[Antidromic Artrioventricular Reentrant Tachycardia|Preexcitation SVT]] if all are false:
 1. Negative QRS in V4-V6
-2. 
+2. QR (large q and r waves) in V2-V6
+3. Not 1:1 AV conduction
 
