@@ -1,0 +1,18 @@
+Indicates:
+- Child
+- Persistent Juvenile T Wave Pattern
+- [[Wellens' Syndrome]]
+	- In V2-3
+- Bundle branch block even in absence of ischemia
+	- [[Left Bundle Branch Block]] has inversion in lateral leads: I, aVL, V5-6
+	- [[Right Bundle Branch Block]] has inversion in right precordial leads: V1-3
+- Ischemia if in contiguous leads
+	- If also has pathological Q, then is old ischemia
+- Ventricular hypertrophy
+	- Left causes inversion in lateral leads: 1, aVL, V5-6
+	- Right causes inversion in right precordial leads (V1-3) and inferior leads (II, III, aVF)
+- [[Pulmonary Embolism|PE]]
+	- Similar to right hypertrophy
+		- May only be in lead III
+- High [[Intracranial Pressure|ICP]] causes widespread bizarre inversion.
+- [[Hypercalcemia]]

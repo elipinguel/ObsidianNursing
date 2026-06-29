@@ -1,0 +1,6 @@
+---
+aliases:
+  - MAOI
+tags:
+  - MAOI
+---

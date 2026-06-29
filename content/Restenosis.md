@@ -1,0 +1,1 @@
+Gradual narrowing of vessel after intervention

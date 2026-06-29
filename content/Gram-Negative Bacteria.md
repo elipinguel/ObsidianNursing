@@ -1,0 +1,1 @@
+Usually releases endotoxins → vasodilation

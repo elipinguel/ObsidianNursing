@@ -1,0 +1,1 @@
+Decreases intestinal [[pH]], turning [[Ammonia]] into ammonium which is not easily absorbed

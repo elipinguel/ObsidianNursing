@@ -1,0 +1,1 @@
+Diminishing returns in drug effectiveness

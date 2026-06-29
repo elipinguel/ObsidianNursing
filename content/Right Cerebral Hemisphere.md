@@ -1,0 +1,1 @@
+Injury usually causes left-sided neglect.

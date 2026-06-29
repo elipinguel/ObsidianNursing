@@ -1,0 +1,14 @@
+Functions:
+- [[Kupffer cell]] detoxify blood
+- Produces:
+	- Bile
+		- Conjugates [[Bilirubin]] and excretes into bile
+	- Amino acids
+	- [[albumin]]
+	- Prothrombin
+	- Fibrinogen
+	- cholesterol
+	- triglycerides
+- Converts glucose into glycogen
+- Converts ammonia into urea
+- Stores fat-soluble vitamins, [[Vitamin B12]], iron, and copper

@@ -1,0 +1,5 @@
+- Specific
+- Measureable
+- Attainable
+- Relevant
+- Time-based

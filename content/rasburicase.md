@@ -1,0 +1,1 @@
+Converts uric acid into allantoin, CO2, and hydrogen peroxide

@@ -1,0 +1,2 @@
+- [[Tidal Volume]] at 8 mL/kg
+- Rate at 10 breaths/min

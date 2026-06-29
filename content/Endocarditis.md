@@ -1,0 +1,2 @@
+Signs:
+- vegetation in echocardiogram

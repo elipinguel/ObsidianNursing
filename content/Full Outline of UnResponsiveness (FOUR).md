@@ -1,0 +1,1 @@
+Assesses [[Level of Consciousness|LOC]]

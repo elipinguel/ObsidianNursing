@@ -1,0 +1,5 @@
+---
+aliases:
+  - ARNI
+---
+- [[sacubitril-valsartan]]

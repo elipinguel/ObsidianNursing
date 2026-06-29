@@ -1,0 +1,5 @@
+---
+aliases:
+  - MRA
+---
+- [[spironolactone]]

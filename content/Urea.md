@@ -1,0 +1,1 @@
+Usually measured as [[Blood Urea Nitrogen|BUN]] in the United States

@@ -1,0 +1,10 @@
+---
+aliases:
+  - TCD
+---
+
+Measures blood vessel flow velocity to assess for vasospasm
+
+Indicated for:
+- [[Aneurysmal Subarachnoid Hemorrhage (aSAH)|aSAH]]
+- Sickle cell stroke screening

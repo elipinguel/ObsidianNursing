@@ -1,0 +1,1 @@
+If urine output does not increase after fluid bolus, [[Acute Tubular Necrosis|ATN]] should be suspected.

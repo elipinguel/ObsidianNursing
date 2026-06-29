@@ -1,0 +1,4 @@
+- Delivers set pressure when patient initiates breath
+- No set rate
+- Can be combined with [[Synchronized Intermittent Mandatory Ventilation]]
+- Usually for ventilator weaning
