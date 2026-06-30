@@ -1,4 +1,6 @@
 ---
-title: Nursing Repository
+title: Welcome to Quartz
 ---
-See the left sidebar
+
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
