@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Nursing Vault
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Use the left side bar or the search bar
