@@ -1,6 +1,7 @@
 Criteria:
-- Meets [[Sepsis]] criteria
-- Hypotension
+- [[Sepsis]] criteria
+- Hypotension requiring vasopressors to maintain [[Mean Arterial Pressure (MAP)|MAP]] > 65
+- [[Lactic Acid]] > 2 mmol/L despite [[Fluid Resuscitation]]
 Warm stage overlaps with normal [[Sepsis]]
 
 Usually caused by [[Gram-Negative Bacteria]]
