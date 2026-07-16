@@ -1,3 +1,7 @@
+---
+aliases:
+  - TA-GVHD
+---
 - 2-32 days after transfusion
 - Lymphocytes in donor blood multiply and attack patient
 
