@@ -21,4 +21,4 @@ Adverse Effects:
 
 Drugs:
 - [[alteplase]]
-- [[tenecteplase (TNK)]]
+- [[tenecteplase]]

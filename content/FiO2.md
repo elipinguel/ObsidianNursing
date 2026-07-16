@@ -5,4 +5,4 @@ If FiO2 < 60%, increase FiO2
 
 If FiO2 >60%:
 - Increase I-time
-- Increase [[Positive End-Expiratory Pressure (PEEP)|PEEP]]
+- Increase [[Positive End-Expiratory Pressure|PEEP]]

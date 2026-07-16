@@ -2,7 +2,7 @@ Usually paired with [[Inferior Wall Myocardial Infarction]]
 
 Signs:
 - Unexplained hypotension
-- [[Jugular Vein Distention (JVD)]]
+- [[Jugular Vein Distention]]
 - [[Kussmaul's sign]]
 - [[Atrioventricular Block|AV Block]]
 - High [[Pulmonary Artery Pressure|PAP]] and thus high [[Central Venous Pressure|CVP]]

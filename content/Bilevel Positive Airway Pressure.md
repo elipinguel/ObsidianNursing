@@ -3,7 +3,7 @@ aliases:
   - BiPAP
 ---
 Has:
-- Expiratory positive airway pressure (EPAP) = [[Positive End-Expiratory Pressure (PEEP)|PEEP]] = [[Continuous Positive Airway Pressure|CPAP]]
+- Expiratory positive airway pressure (EPAP) = [[Positive End-Expiratory Pressure|PEEP]] = [[Continuous Positive Airway Pressure|CPAP]]
 	- Max 10-15 cm H2O
 	- ↑→ ↑O2
 - Inspiratory positive airway pressure (IPAP)

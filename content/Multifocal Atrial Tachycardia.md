@@ -4,7 +4,7 @@ aliases:
 ---
 Multiple atrial ectopic foci
 
-Usually in [[Chronic Obstructive Pulmonary Disease (COPD)|COPD]] or [[Heart Failure|HF]]
+Usually in [[Chronic Obstructive Pulmonary Disease|COPD]] or [[Heart Failure|HF]]
 
 Transitional rhythm between PACs and [[Atrial Fibrillation|A-fib]]/A-flutter. Indicates poor prognosis
 

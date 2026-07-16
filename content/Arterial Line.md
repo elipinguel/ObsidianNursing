@@ -1,6 +1,6 @@
 Never put medications through arterial line
 
-[[Distal Pulse Amplification]] due to reflection of pressure wave off smaller vessels. But [[Mean Arterial Pressure (MAP)|MAP]] remains relatively stable regardless of location
+[[Distal Pulse Amplification]] due to reflection of pressure wave off smaller vessels. But [[Mean Arterial Pressure|MAP]] remains relatively stable regardless of location
 
 ![[Arterial Waveform.png]]
 Systolic peak pressure = SBP
@@ -12,11 +12,11 @@ Arterial waveform occurs after ECG
 
 Calibrated with [[Square Wave Test]]
 ### Over Damp
-- Does not affect [[Mean Arterial Pressure (MAP)|MAP]]
+- Does not affect [[Mean Arterial Pressure|MAP]]
 - ↓SBP, ↑DBP, narrow [[Pulse Pressure]]
 - From loose connections and large air bubbles
 ### Under Damp
- Does not affect [[Mean Arterial Pressure (MAP)|MAP]]
+ Does not affect [[Mean Arterial Pressure|MAP]]
 - ↑SBP, ↓DBP, wide [[Pulse Pressure]]
 - From excessive tubing and micro air bubbles
 

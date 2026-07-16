@@ -17,4 +17,4 @@ Treatment:
 	- delay diagnostic angiography up to 48 hrs
 - [[Cardiac Catheterization|PCI]], [[Coronary Artery Bypass Grafting|CABG]], or medical management
 
-Progresses into [[Non-ST-Segment Elevation Myocardial Infarction (NSTEMI)|NSTEMI]]
+Progresses into [[Non-ST-Segment Elevation Myocardial Infarction|NSTEMI]]

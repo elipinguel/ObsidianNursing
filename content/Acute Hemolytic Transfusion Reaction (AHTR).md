@@ -1,3 +1,7 @@
+---
+aliases:
+  - AHTR
+---
 Occurs within 5 mins to 24 hrs of transfusion
 
 Early signs:
@@ -12,7 +16,7 @@ Early signs:
 - Hematuria
 Late signs:
 - ↓BP
-- [[Disseminated Intravascular Coagulation (DIC)|DIC]]
+- [[Disseminated Intravascular Coagulation|DIC]]
 
 Treatment:
 - Fluids to minimize hemolysis renal damage

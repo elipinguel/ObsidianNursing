@@ -1,4 +1,4 @@
-Type of [[Chronic Obstructive Pulmonary Disease (COPD)|COPD]] with damaged, less elastic alveoli
+Type of [[Chronic Obstructive Pulmonary Disease|COPD]] with damaged, less elastic alveoli
 
 Causes:
 - Alpha1-antitrypsin deficiency

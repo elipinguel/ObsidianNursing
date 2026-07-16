@@ -15,7 +15,7 @@ Types:
 - Thrombotic
 	- In large arteries e.g. carotid, vertebral, basilar
 - Embolic
-	- In small arteries e.g. [[Middle Cerebral Artery (MCA)|MCA]], [[Anterior Cerebral Artery (ACA)|ACA]], cerebellar
+	- In small arteries e.g. [[Middle Cerebral Artery|MCA]], [[Anterior Cerebral Artery|ACA]], cerebellar
 - Cryptogenic
 	- People without risk factors
 - Lacunar
@@ -24,7 +24,7 @@ Types:
 	- Treated with risk factor management
 
 BP and neuro exams:
-- Q15 mins during [[Recombinant Tissue Plasminogen Activator (rtPA)|rtPA]] infusion
+- Q15 mins during [[Recombinant Tissue Plasminogen Activator|rtPA]] infusion
 - Q15 mins for 2 hrs
 - Q30 mins for 6 hrs
 - Q60 mins for 16 hrs

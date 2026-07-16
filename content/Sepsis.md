@@ -3,7 +3,17 @@ Life-threatening organ dysfunction caused by a dysregulated host response to inf
 Criteria:
 - 2 or more [[Systemic Inflammatory Response Syndrome|SIRS]] criteria
 - Suspected or confirmed source of infection
-- 
+- Organ dysfunction
+	- Acute change in [[Sequential Organ Failure Assessment Score|SOFA Score]] ≥ 2 points **OR**
+	- [[Centers for Medicare & Medicaid Services|CMS]] criteria:
+		- [[Lactic Acid]] > 2
+		- SBP < 90 mm Hg or [[Mean Arterial Pressure|MAP]] < 65 mm Hg
+		- Acute respiratory failure ([[Bilevel Positive Airway Pressure|BiPAP]], [[Continuous Positive Airway Pressure|CPAP]], [[Intubation]])
+		- [[Platelet]] < 100,000 and [[International Normalized Ratio|INR]] > 1.5
+		- [[Activated Partial Thromboplastin Time|aPTT]] > 60
+		- [[Creatinine]] > 2
+		- [[Bilirubin]] > 2
+		- [[Urine Output]] < 0.5 mL/kg/hr
 
 Treatment:
 - IV broad-spectrum antibiotic w/in 1 hr

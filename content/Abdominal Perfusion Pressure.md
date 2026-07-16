@@ -1,1 +1,1 @@
-[[Mean Arterial Pressure (MAP)|MAP]] - [[Intra-Abdominal Pressure|IAP]]
+[[Mean Arterial Pressure|MAP]] - [[Intra-Abdominal Pressure|IAP]]

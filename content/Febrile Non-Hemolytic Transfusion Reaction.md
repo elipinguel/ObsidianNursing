@@ -1,3 +1,7 @@
+---
+aliases:
+  - FNHTR
+---
 - Recipient attacks donor WBCs
 - Occurs during transfusion
 

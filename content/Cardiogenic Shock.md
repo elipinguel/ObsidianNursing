@@ -1,7 +1,7 @@
 Signs and symptoms:
 - Hypotension
 - [[Fluid Overload]]
-- [[Jugular Vein Distention (JVD)|JVD]]
+- [[Jugular Vein Distention|JVD]]
 - Narrow [[Pulse Pressure]]
 - [[S3 Heart Sound]], [[S4 Heart Sound]]
 - ↑[[Central Venous Pressure|CVP]], ↑[[Systemic Vascular Resistance|SVR]], ↑[[Pulmonary Artery Wedge Pressure|PAWP]]

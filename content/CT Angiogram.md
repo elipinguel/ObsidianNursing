@@ -2,7 +2,7 @@
 aliases:
   - CTA
 ---
-[[Computed Tomography (CT)|CT]] + contrast dye to see blood vessel flow
+[[Computed Tomography|CT]] + contrast dye to see blood vessel flow
 
 For:
 - Large vessel occlusions

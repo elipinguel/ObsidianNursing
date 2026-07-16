@@ -4,4 +4,4 @@ aliases:
 ---
 Assessments:
 - [[Glasgow Coma Scale]]
-- [[Full Outline of UnResponsiveness (FOUR)]]
+- [[Full Outline of UnResponsiveness]]

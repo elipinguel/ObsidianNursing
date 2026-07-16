@@ -13,7 +13,7 @@ Increased by:
 	- Pain
 - Diminished respiratory function
 	- Respiratory depression
-	- [[Chronic Obstructive Pulmonary Disease (COPD)|COPD]]
+	- [[Chronic Obstructive Pulmonary Disease|COPD]]
 - ↑[[Cardiac Output|CO]] due to more blood going to lungs
 - [[sodium bicarbonate]]
 Decreased by:

@@ -4,7 +4,7 @@ aliases:
 tags:
   - alpha-2_agonist
 ---
-[[Alpha-2 Receptor]] on [[Reticular Activating System (RAS)]]
+[[Alpha-2 Receptor]] on [[Reticular Activating System]]
 
 Choice sedative when [[fentanyl]] is ineffective
 

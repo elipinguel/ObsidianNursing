@@ -7,4 +7,4 @@ Abdominal:
 
 Treatment:
 - [[Beta Blocker]] to reduce contractility and BP
-- [[Angiotensin-Converting Enzyme (ACE) Inhibitors|ACE Inhibitors]]/[[Angiotensin II Receptor Blockers (ARBs)|ARBs]] to slow growth
+- [[Angiotensin-Converting Enzyme Inhibitors|ACE Inhibitors]]/[[Angiotensin II Receptor Blockers|ARBs]] to slow growth

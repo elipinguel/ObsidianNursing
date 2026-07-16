@@ -1,4 +1,4 @@
-[[Asthma]] attack or [[Chronic Obstructive Pulmonary Disease (COPD)|COPD]] exacerbation that is resistant to #bronchodilator
+[[Asthma]] attack or [[Chronic Obstructive Pulmonary Disease|COPD]] exacerbation that is resistant to #bronchodilator
 
 Triggers:
 - #NSAID 

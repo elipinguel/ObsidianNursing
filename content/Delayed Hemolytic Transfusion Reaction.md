@@ -1,3 +1,7 @@
+---
+aliases:
+  - DHTR
+---
 Previous transfusion caused low levels of antibodies. New blood administration increases antibodies
 
 Risk factors:

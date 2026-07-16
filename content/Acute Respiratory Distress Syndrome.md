@@ -37,7 +37,7 @@ Pathophysiology:
 
 Treatment:
 1.  Non-invasive ventilation
-2. ↑[[Positive End-Expiratory Pressure (PEEP)|PEEP]]
+2. ↑[[Positive End-Expiratory Pressure|PEEP]]
 3. ↓[[Tidal Volume|TV]]
 4. Prone
 	1. Only severe ARDS

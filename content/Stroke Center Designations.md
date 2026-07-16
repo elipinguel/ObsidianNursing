@@ -1,7 +1,7 @@
 Order from highest to lowest:
 1. Comprehensive stroke center
 	1. 24/7 neurosurgery
-	2. [[Magnetic Resonance Imaging (MRI)|MRI]], [[CT Angiogram (CTA)|CTA]], [[Digital Subtraction Angiography (DSA)|DSA]], [[Transcranial Doppler]]
+	2. [[Magnetic Resonance Imaging|MRI]], [[CT Angiogram|CTA]], [[Digital Subtraction Angiography|DSA]], [[Transcranial Doppler]]
 2. Thrombectomy-capable stroke center
 	1. Able to perform surgical thrombectomy
 3. Primary Stroke center

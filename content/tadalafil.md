@@ -6,7 +6,7 @@ Smooth muscle relaxation → vasodilation
 
 Indications:
 - [[Pulmonary Hypertension]]
-- [[Benign Prostatic Hyperplasia (BPH)|BPH]]
+- [[Benign Prostatic Hyperplasia|BPH]]
 - Erectile dysfunction
 
 Interactions:

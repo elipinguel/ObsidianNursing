@@ -2,7 +2,7 @@ Pericardial pressure collapses atria
 
 Signs:
 - Beck's triad (usually show 1-2 signs, not all 3)
-	- [[Jugular Vein Distention (JVD)|JVD]]
+	- [[Jugular Vein Distention|JVD]]
 	- Muffled heart sounds
 	- Hypotension
 - [[Pulsus Paradoxus]]

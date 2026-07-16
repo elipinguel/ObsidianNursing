@@ -1,3 +1,7 @@
+---
+aliases:
+  - PRES
+---
 Signs:
 - vasogenic edema
 

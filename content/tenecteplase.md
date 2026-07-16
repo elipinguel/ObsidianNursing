@@ -1,9 +1,11 @@
 ---
 tags:
   - fibrinolytic
+aliases:
+  - TNK
 ---
 
-[[Recombinant Tissue Plasminogen Activator (rtPA)|rtPA]]
+[[Recombinant Tissue Plasminogen Activator|rtPA]]
 
 Dosing:
 - 0.25 mg/kg

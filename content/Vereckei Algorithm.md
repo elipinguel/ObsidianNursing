@@ -2,7 +2,7 @@
 aliases:
   - aVR Algorithm
 ---
-Differentiates ventricular tachycardia (VT) from [[Supraventricular Tachycardia (SVT)|SVT]] with [[Abberant Ventricular Conduction]]
+Differentiates ventricular tachycardia (VT) from [[Supraventricular Tachycardia|SVT]] with [[Abberant Ventricular Conduction]]
 
 >[!warning]
 >Cannot differentiate between VT and [[Antidromic Artrioventricular Reentrant Tachycardia|Preexcitation SVT]]. Use [[Modified Brugada Algorithm]]

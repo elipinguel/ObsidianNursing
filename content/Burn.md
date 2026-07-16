@@ -15,7 +15,7 @@ Fluid resuscitation formulas:
 - New formula for adults:
 	- Thermal
 		- 2 mL/kg/TBSA/16 LR
-		- Starts low to avoid fluid-overload (e.g. abdominal compartment syndrome, [[Acute Respiratory Distress Syndrome (ARDS)|ARDS]])
+		- Starts low to avoid fluid-overload (e.g. abdominal compartment syndrome, [[Acute Respiratory Distress Syndrome|ARDS]])
 	- Electrical injury fluid rate
 		- 4 mL/kg/TBSA/16 LR
 	- Titrate fluid to fluid response e.g. urine output

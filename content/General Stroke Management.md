@@ -21,7 +21,7 @@ Medications:
 		- Halve dose if headache
 - Anticoagulants
 	- [[warfarin]]
-	- [[Direct Oral Anticoagulants (DOACs)|DOACs]]
+	- [[Direct Oral Anticoagulants|DOACs]]
 		- Wait 4-14 days before starting in ischemic stroke with [[Atrial Fibrillation|A-fib]]
 	- [[heparin]]
 - Antihypertensives
@@ -38,7 +38,7 @@ Medications:
 - Glycemic control
 - Antispasmodics
 	- [[baclofen]]
-- [[Selective Serotonin Reuptake Inhibitors (SSRIs)|SSRIs]]
+- [[Selective Serotonin Reuptake Inhibitors|SSRIs]]
 - [[methylphenidate]] to stimulate
 - [[haloperidol]] for delirium
 

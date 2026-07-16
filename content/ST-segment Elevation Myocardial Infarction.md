@@ -21,17 +21,17 @@ Treatment:
 	- ↓[[Cardiac Contractility]] → ↓ oxygen demand
 	- Antidysrhythmic
 	- Prevent ventricular remodeling
-- [[Angiotensin-Converting Enzyme (ACE) Inhibitors|ACE Inhibitors]]
+- [[Angiotensin-Converting Enzyme Inhibitors|ACE Inhibitors]]
 	- Prevent ventricular remodeling
 	- ↓preload and afterload
 	- Contraindicated in bilateral renal artery stenosis
-- [[Angiotensin II Receptor Blockers (ARBs)|ARBs]]
+- [[Angiotensin II Receptor Blockers|ARBs]]
 	- If cannot tolerate ACE inhibitors
 - [[Calcium Channel Blockers]]
 	- For vasospastic disease with [[Hypertension|HTN]]
 - [[Cardiac Catheterization]] is the first line treatment
 	- Addresses plaque rupture and clot
-- [[Recombinant Tissue Plasminogen Activator (rtPA)|rtPA]] is the second line treatment
+- [[Recombinant Tissue Plasminogen Activator|rtPA]] is the second line treatment
 	- [[12 Lead ECG]] 60, 90, and 120 mins after
 	- Goal is >50% reduction in ST elevation
 	- Neuro check every

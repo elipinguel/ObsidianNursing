@@ -1,4 +1,4 @@
-13.3% of inferior occlusion [[Myocardial Infarction|MI]]s present as Aslanger pattern and are often misdiagnosed as [[Non-ST-Segment Elevation Myocardial Infarction (NSTEMI)|NSTEMI]]
+13.3% of inferior occlusion [[Myocardial Infarction|MI]]s present as Aslanger pattern and are often misdiagnosed as [[Non-ST-Segment Elevation Myocardial Infarction|NSTEMI]]
 
 Criteria:
 - ST elevation in lead III but NOT II or aVF

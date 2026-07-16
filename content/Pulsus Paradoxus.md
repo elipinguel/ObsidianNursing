@@ -5,7 +5,7 @@ Causes:
 - pericardial effusion
 - [[Pericarditis]]
 - [[Asthma]]
-- [[Chronic Obstructive Pulmonary Disease (COPD)|COPD]]
+- [[Chronic Obstructive Pulmonary Disease|COPD]]
 - mechanical ventilation
 	- inspiration = ↓waveform
 	- ![[Pulsus Paradoxus with Ventilator.png]]

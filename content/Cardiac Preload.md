@@ -2,7 +2,7 @@
 aliases:
   - Preload
 ---
-Right side measured with [[Central Venous Pressure|CVP]] or [[Right Arterial Pressure (RAP)|RAP]]
+Right side measured with [[Central Venous Pressure|CVP]] or [[Right Arterial Pressure|RAP]]
 
 Left side measured with [[Pulmonary Artery Wedge Pressure|PAWP]]
 
@@ -16,7 +16,7 @@ Reducing:
 - [[milrinone]]
 - [[dobutamine]]
 Increasing:
-- High [[Positive End-Expiratory Pressure (PEEP)|PEEP]]
+- High [[Positive End-Expiratory Pressure|PEEP]]
 - High abdominal pressure
 - [[Fluid Resuscitation]]
 - Blood

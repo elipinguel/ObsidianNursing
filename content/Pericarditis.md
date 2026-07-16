@@ -9,7 +9,7 @@ Signs:
 - low-grade fever
 - [[Kussmaul's Sign]]
 - [[Pericardial Friction Rub]]
-- [[Jugular Vein Distention (JVD)|JVD]]
+- [[Jugular Vein Distention|JVD]]
 - tachycardia
 - pallor
 - ==**ST elevation in all leads**==

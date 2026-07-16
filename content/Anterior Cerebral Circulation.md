@@ -7,9 +7,9 @@ Includes:
 - Circle of Willis
 	- Lots of collateral circulation
 	- Prone to aneurysm
-- [[Middle Cerebral Artery (MCA)|MCA]]
+- [[Middle Cerebral Artery|MCA]]
 	- Supply ==arms== and ==face== on motor cortex
 	- Small → embolism
-- [[Anterior Cerebral Artery (ACA)|ACA]]
+- [[Anterior Cerebral Artery|ACA]]
 	- Supply ==legs== on motor cortex
 	- Small → embolism

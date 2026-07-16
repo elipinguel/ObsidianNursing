@@ -5,5 +5,5 @@
 - [[Passive Leg Raise]]
 
 **Dynamic indicators:** measures multiple values over time
-- [[Pulse Pressure Variation (PPV)]]
+- [[Pulse Pressure Variation]]
 - [[Stroke Volume Variation]]

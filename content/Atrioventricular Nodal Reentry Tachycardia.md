@@ -2,7 +2,7 @@
 aliases:
   - AVNRT
 ---
-Most common type of [[Supraventricular Tachycardia (SVT)|SVT]] in people without structural heart abnormality
+Most common type of [[Supraventricular Tachycardia|SVT]] in people without structural heart abnormality
 
 From reentry circuit in or around [[Atrioventricular Node|AV Node]]
 

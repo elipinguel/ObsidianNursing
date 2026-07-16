@@ -3,7 +3,7 @@ Causes:
 - Bullae
 - Trauma
 	- ==Close with occlusive 3-way gauze dressing==
-- ↑[[Positive End-Expiratory Pressure (PEEP)|PEEP]]
+- ↑[[Positive End-Expiratory Pressure|PEEP]]
 
 Types:
 - Closed

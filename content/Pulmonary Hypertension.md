@@ -2,7 +2,7 @@ Mean [[Pulmonary Artery Pressure|PAP]] ≥25 mm Hg at rest
 
 Causes:
 - Left [[Heart Failure]]
-- [[Chronic Obstructive Pulmonary Disease (COPD)|COPD]]
+- [[Chronic Obstructive Pulmonary Disease|COPD]]
 - Hypoxia
 - [[Pulmonary Embolism|PE]]
 

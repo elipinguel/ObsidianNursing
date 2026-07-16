@@ -11,7 +11,7 @@ Symptoms:
 - Visual disturbances
 
 Treatment:
-- [[Computed Tomography (CT)|CT]] within 24 hrs
+- [[Computed Tomography|CT]] within 24 hrs
 - [[Carotid Endarterectomy]]
 - Carotid stent if multiple comorbidities
 - after 1 day

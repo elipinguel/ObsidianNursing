@@ -7,6 +7,6 @@ aliases:
 Helps open alveoli → ↑O2
 
 Complications:
-- Volutrauma → Breaks alveoli elastic bands → [[Chronic Obstructive Pulmonary Disease (COPD)|COPD]]
+- Volutrauma → Breaks alveoli elastic bands → [[Chronic Obstructive Pulmonary Disease|COPD]]
 	- Usually occurs when lungs gets better
 	- Worse than barotrauma

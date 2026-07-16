@@ -3,7 +3,7 @@ aliases:
   - ICH Spot Sign
 ---
 
-On [[Computed Tomography (CT)|CT]] scan in [[Intracranial Hemorrhage]]
+On [[Computed Tomography|CT]] scan in [[Intracranial Hemorrhage]]
 
 White spot in the middle of blood
 

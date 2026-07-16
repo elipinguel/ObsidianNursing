@@ -3,7 +3,7 @@ tags:
   - fibrinolytic
 ---
 
-[[Recombinant Tissue Plasminogen Activator (rtPA)|rtPA]]
+[[Recombinant Tissue Plasminogen Activator|rtPA]]
 
 Dosing:
 - [[Ischemic Stroke]]
@@ -13,8 +13,8 @@ Dosing:
 	- Infuse remaining over 60 mins. Bedrest
 	- Start IV within 4.5 hrs of onset unless:
 		- age >80
-		-  [[National Institute of Health Stroke Scale (NIHSS)|NIHSS]] >25
-		- [[Direct Oral Anticoagulants (DOACs)|DOACs]]
+		-  [[National Institute of Health Stroke Scale|NIHSS]] >25
+		- [[Direct Oral Anticoagulants|DOACs]]
 		- Diabetes
 	- Start IV within 3 hrs
 	- Start intraarterial within 6 hrs of onset

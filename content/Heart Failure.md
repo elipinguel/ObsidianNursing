@@ -11,7 +11,7 @@ Signs and Symptoms:
 	- Cool, clammy extremities
 	- [[Pulmonary Edema]]
 - Right-sided:
-	- [[Jugular Vein Distention (JVD)|JVD]]
+	- [[Jugular Vein Distention|JVD]]
 
 Types:
 - [[Heart Failure with Reduced Ejection Fraction]]

@@ -24,7 +24,7 @@ PAWP > PA diastolic means:
 - Catheter is in West's Zones I or II. Should be III
 	- Verified by chest x-ray
 	- May also have damped waveform and marked respiratory variations
-- [[Positive End-Expiratory Pressure (PEEP)|PEEP]] > 10
+- [[Positive End-Expiratory Pressure|PEEP]] > 10
 
 ==If PEEP > 10:== 
 1. PEEP in cm water/1.36/2 = PEEP in mm Hg

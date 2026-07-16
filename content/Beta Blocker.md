@@ -6,7 +6,7 @@ tags:
 -lol
 
 >[!tip]
-Non-selective drugs includes letters N-Z, labetalol, and carvedilol and should NOT be used in lung disease ([[Asthma]], [[Chronic Obstructive Pulmonary Disease (COPD)|COPD]])
+Non-selective drugs includes letters N-Z, labetalol, and carvedilol and should NOT be used in lung disease ([[Asthma]], [[Chronic Obstructive Pulmonary Disease|COPD]])
 
 Indications:
 - [[Hypertension|HTN]]

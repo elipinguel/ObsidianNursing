@@ -12,7 +12,7 @@ Causes:
 - Chemotherapy
 
 Treatment:
-- [[Guideline-Directed Medical Therapy|GDMT]], especially [[Angiotensin-Converting Enzyme (ACE) Inhibitors|ACE Inhibitors]]/[[Angiotensin II Receptor Blockers (ARBs)|ARBs]]
+- [[Guideline-Directed Medical Therapy|GDMT]], especially [[Angiotensin-Converting Enzyme Inhibitors|ACE Inhibitors]]/[[Angiotensin II Receptor Blockers|ARBs]]
 
 >[!warning]
 >Avoid [[Calcium Channel Blockers]] due to low contractility

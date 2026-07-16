@@ -6,7 +6,7 @@ aliases:
 	- [[metoprolol]]
 	- [[carvedilol]]
 	- bisoprolol
-2. [[Angiotensin Receptor-Neprilysin Inhibitor|ARNI]] or [[Angiotensin-Converting Enzyme (ACE) Inhibitors|ACE Inhibitors]]/[[Angiotensin II Receptor Blockers (ARBs)|ARBs]]
+2. [[Angiotensin Receptor-Neprilysin Inhibitor|ARNI]] or [[Angiotensin-Converting Enzyme Inhibitors|ACE Inhibitors]]/[[Angiotensin II Receptor Blockers|ARBs]]
 	1. [[sacubitril-valsartan]]
 3. [[Mineralocorticoid Receptor Antagonist]]
 	- [[spironolactone]]

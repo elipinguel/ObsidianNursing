@@ -13,8 +13,8 @@ Normal: 15-30 / 5-15
 
 Systolic:
 - Elevated:
-	- [[Chronic Obstructive Pulmonary Disease (COPD)|COPD]]
-	- [[Acute Respiratory Distress Syndrome (ARDS)|ARDS]]
+	- [[Chronic Obstructive Pulmonary Disease|COPD]]
+	- [[Acute Respiratory Distress Syndrome|ARDS]]
 	- [[Pulmonary Hypertension]]
 	- [[Pulmonary Embolism|PE]]
 	- [[Mitral Regurgitation]]

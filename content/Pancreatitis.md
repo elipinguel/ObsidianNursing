@@ -22,7 +22,7 @@ Signs and symptoms:
 - Left-sided atelectasis and pleural effusion from digestive enzymes eating lungs
 - Bilateral lung crackles
 	- Due to systemic inflammation
-		- Can lead to [[Acute Respiratory Distress Syndrome (ARDS)|ARDS]]
+		- Can lead to [[Acute Respiratory Distress Syndrome|ARDS]]
 - [[Cullen Sign]]
 - [[Grey Turner's Sign]]
 - Elevated amylase and lipase

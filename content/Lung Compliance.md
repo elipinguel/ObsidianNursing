@@ -1,7 +1,7 @@
 Inverse relationship with [[Lung Elasticity]]
 
 Increased by:
-- [[Chronic Obstructive Pulmonary Disease (COPD)|COPD]]
+- [[Chronic Obstructive Pulmonary Disease|COPD]]
 	- Easy to get air in but hard to get out due to low [[Lung Elasticity]]
 - Aging
 Decreased by:

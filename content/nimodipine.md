@@ -5,7 +5,7 @@ tags:
 
 
 Indications:
-- [[Aneurysmal Subarachnoid Hemorrhage (aSAH)|aSAH]]
+- [[Aneurysmal Subarachnoid Hemorrhage|aSAH]]
 
 Dosing:
 - 60 mg Q4 hrs for 21 days

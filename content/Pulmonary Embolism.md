@@ -12,7 +12,7 @@ Signs:
 	- S wave in lead I
 	- Pathological Q in lead III
 	- [[Inverted T Wave]] in lead III
-- [[Jugular Vein Distention (JVD)|JVD]]
+- [[Jugular Vein Distention|JVD]]
 - Tachypnea
 - Asymmetric limb edema
 - [[Pulmonary Hypertension]]
@@ -46,7 +46,7 @@ Types:
 	- Hypotension
 
 Treatment:
-- Unfractionated heparin → LMWH, [[Direct Oral Anticoagulants (DOACs)]], or [[warfarin]]
+- Unfractionated heparin → LMWH, [[Direct Oral Anticoagulants]], or [[warfarin]]
 - Thrombolysis
 - [[Mechanical Thrombectomy]]
 - [[Extracorporeal Membrane Oxygenation|ECMO]]

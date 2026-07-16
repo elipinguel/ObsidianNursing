@@ -1,4 +1,4 @@
-[[Computed Tomography (CT)|CT]] + contrast dye to see perfussion
+[[Computed Tomography|CT]] + contrast dye to see perfussion
 
 - Red = dead tissue
 - Green = good tissue
