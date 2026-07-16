@@ -11,14 +11,14 @@ Usually from plaque rupture and subsequent clot formation.
 
 Treatment:
 - [[morphine]]
-	- ↓pain and anxiety ⇒ ↓ oxygen demand
+	- ↓pain and anxiety → ↓ oxygen demand
 	- ↑venous capacitance to lower preload
 - oxygen
 	- Oxidative quenching of NO ↑ coronary vascular resistance
 - [[Beta Blocker]]
 	- Arterial vasodilation
 	- ↑diastolic time
-	- ↓[[Cardiac Contractility]] ⇒ ↓ oxygen demand
+	- ↓[[Cardiac Contractility]] → ↓ oxygen demand
 	- Antidysrhythmic
 	- Prevent ventricular remodeling
 - [[Angiotensin-Converting Enzyme (ACE) Inhibitors|ACE Inhibitors]]

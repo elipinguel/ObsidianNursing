@@ -2,7 +2,7 @@ Dynamic indicator of fluid responsiveness
 
 Calculated by dividing the difference in end diastolic and peak systolic by mean peak
 
-If ≥13% ⇒ fluid responsive
+If ≥13% then fluid responsive
 
 **Requirements:**
 - Synchronous with mechanical ventilator

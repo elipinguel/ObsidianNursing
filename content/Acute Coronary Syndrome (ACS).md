@@ -1,7 +1,7 @@
 Supply ischemia
 
 Types:
-- [[ST-segment Elevation Myocardial Infarction (STEMI)|STEMI]]
+- [[ST-segment Elevation Myocardial Infarction|STEMI]]
 - [[Non-ST-Segment Elevation Myocardial Infarction (NSTEMI)]]
 - [[Unstable Angina]]
 

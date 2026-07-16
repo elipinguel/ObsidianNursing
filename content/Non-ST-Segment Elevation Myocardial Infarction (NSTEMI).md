@@ -16,4 +16,4 @@ Treatment:
 - [[Cardiac Catheterization|PCI]], [[Coronary Artery Bypass Grafting|CABG]], or medical management
 - #antiplatelet, NOT #fibrinolytic
 
-Progresses into [[ST-segment Elevation Myocardial Infarction (STEMI)|STEMI]]
+Progresses into [[ST-segment Elevation Myocardial Infarction|STEMI]]

@@ -2,7 +2,7 @@ Dynamic indicator of fluid responsiveness
 
 Calculated by dividing difference between maximum and minimum [[Stroke Volume|SV]] (area) by mean SV
 
-If ≥13% ⇒ fluid responsive
+If ≥13% then fluid responsive
 
 **Requirements:**
 - Synchronous with mechanical ventilator
