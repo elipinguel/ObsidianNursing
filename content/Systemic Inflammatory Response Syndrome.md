@@ -2,6 +2,9 @@
 aliases:
   - SIRS
 ---
+>[!warning]
+>[[Centers for Medicare & Medicaid Services|CMS]] still uses [[Sepsis-1]] guidelines. Clinicians, including this website, use Sepsis-3 guidelines.
+
 Criteria:
 - Temperature > 38 C (100.4 F) or < 36 C (96.8 F)
 - Heart rate > 90
