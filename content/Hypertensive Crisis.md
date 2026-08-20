@@ -14,8 +14,8 @@ Signs:
 - Crackles
 
 Treatment:
-- ==Up to -25% SBP reduction in 1 hr==
-- ==Up to -160 SBP reduction in 2-6 hrs==
+- Up to -25% SBP reduction in 1 hr
+- Up to -160 SBP reduction in 2-6 hrs
 - [[nitroprusside]]
 - [[nitroglycerin]]
 - [[nicardipine]]
@@ -26,4 +26,10 @@ May progress into [[Hypertensive Encephalopathy]]
 
 # Pregnancy
 
-Average of at least 2 SBP ≥160 mmHg or DBP ≥100 mmHg at least 15 mins apart using the same limb
+Average of at least 2 SBP ≥160 mmHg or DBP ≥100 mmHg at least 15 mins apart using the same limb within 60 mins. ==Does not have to be consecutive.==
+
+Treatment:
+- Continuous electronic fetal monitor
+- [[Magnesium]] for seizure prophylaxis
+- [[labetalol]], [[hydralazine]], or [[nifedipine]]
+	- If BP improves then becomes hypertensive later, restart dosing scale.
