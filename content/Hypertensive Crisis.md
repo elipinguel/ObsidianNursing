@@ -3,6 +3,8 @@ aliases:
   - Hypertensive Emergency
   - Malignant Hypertension
 ---
+# Adults
+
 Signs:
 - LV hypertrophy
 - Blurred vision
@@ -21,3 +23,7 @@ Treatment:
 	- Avoid in [[cocaine]] and [[methamphetamine]]
 
 May progress into [[Hypertensive Encephalopathy]]
+
+# Pregnancy
+
+Average of at least 2 SBP ≥160 mmHg or DBP ≥100 mmHg at least 15 mins apart using the same limb
