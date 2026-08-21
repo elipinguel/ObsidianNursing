@@ -47,4 +47,5 @@ Complications:
 
 Treatment:
 - Supportive care
+- [[Magnesium]] for prophylaxis
 - Deliver fetus and placenta
