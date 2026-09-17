@@ -3,13 +3,14 @@ aliases:
   - DKA
 ---
 Causes:
-- Insulin deficient
+- Insulin deficiency causes [[Ketogenesis]]
 
 Signs and symptoms:
 - Blood glucose 300-800 mg/dL
 - Dehydration
 - Acidosis
 - Anion gap greater than 12
+- Elevated [[beta-hydroxybutyric acid]]
 
 Treatment:
 - Insulin
