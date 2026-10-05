@@ -1,0 +1,1 @@
+Type of [[Longitudinal Study]] that samples a cohort of people who share a characteristic. Cross-sectional data is collected at specific intervals during the study.
