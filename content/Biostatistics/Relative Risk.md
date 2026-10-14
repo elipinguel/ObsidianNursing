@@ -11,7 +11,7 @@ Measures association between exposure and outcome.
 Must be able to calculate incidence in order to calculate.
 
 >[!warning]
->There must be a control and intervention. If using data from an [[Observational Study]], use [[Odds Ratio]] instead.
+>There must be a way to calculate incidence. Otherwise, use [[Odds Ratio]]
 ## Formula
 
 |                  | Events (E) | Non-Events (N) |

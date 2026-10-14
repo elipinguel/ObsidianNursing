@@ -5,6 +5,8 @@ aliases:
 ## Definition
 Ratio of the [[Odds]] of event A taking place in the presence of B, and the odds of A in the absence of B.
 
+>[!warning]
+>Tends to overestimate risk. Use [[Relative Risk]] when applicable instead
 ## Formula
 Using a disease example:
 
