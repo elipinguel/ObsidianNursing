@@ -1,1 +1,3 @@
-Graphically represent survival fuction.
+Graphically represent survival function.
+
+![[Kaplan Meier Curve.png]]
