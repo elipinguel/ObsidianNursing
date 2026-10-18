@@ -1,0 +1,1 @@
+Design technique to group similar experimental units (blocks) together to control for confounding variables.

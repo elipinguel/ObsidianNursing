@@ -1,0 +1,1 @@
+Participants are divided into homogeneous subgroups (strata). Each strata then undergoes randomization, usually [[Block Randomization]]
